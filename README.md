@@ -5,4 +5,4 @@
 - Hobby-related interests: Sports(mainly football), gaming, cooking, camping/hiking/excercise.
 
 - 📫: kylechristophermoore@gmail.com
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) : LinkedIn](https://www.linkedin.com/in/kylechristophermoore/)
+- ![Linkedin](https://i.stack.imgur.com/gVE0j.png) : [LinkedIn](https://www.linkedin.com/in/kylechristophermoore/)
